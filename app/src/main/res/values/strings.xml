@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Contacto</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion del Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="confirmar">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+    <string name="pnombre">NombreCompleto</string>
+    <string name="pfecha">FechaNacimiento</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pdescripcion">DescripcionContacto</string>
+    <string name="lnombre">Nombre Completo: </string>
+    <string name="lfecha">Fecha de Nacimiento: </string>
+    <string name="ltelefono">Teléfono: </string>
+    <string name="lemail">Email: </string>
+    <string name="ldescripcion">Descripcion de Contacto :</string>
+</resources>
